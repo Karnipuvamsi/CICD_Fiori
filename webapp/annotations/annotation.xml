@@ -17,7 +17,7 @@
                                     <PropertyValue Property="Value" Path="ID"/>
                                 </Record>
                                 <Record Type="UI.DataField">
-                                    <PropertyValue Property="Label" String="name"/>
+                                    <PropertyValue Property="Label" String="FullName"/>
                                     <PropertyValue Property="Value" Path="name"/>
                                 </Record>
                                 <Record Type="UI.DataField">
