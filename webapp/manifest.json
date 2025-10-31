@@ -1,7 +1,7 @@
 {
   "_version": "1.76.0",
   "sap.app": {
-    "id": "project2",
+    "id": "project3",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -70,7 +70,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "project2.i18n.i18n"
+          "bundleName": "project3.i18n.i18n"
         }
       },
       "": {
@@ -150,6 +150,6 @@
   },
   "sap.cloud": {
     "public": true,
-    "service": "project2"
+    "service": "project3"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "project2",
+  "name": "project3",
   "version": "0.0.1",
   "description": "An SAP Fiori application.",
   "keywords": [
@@ -29,7 +29,7 @@
     "start-variants-management": "fiori run --open \"/preview.html#app-preview\"",
     "build:cf": "ui5 build preload --clean-dest --config ui5-deploy.yaml --include-task=generateCachebusterInfo",
     "build:mta": "rimraf resources mta_archives && mbt build",
-    "undeploy": "cf undeploy project2 --delete-services --delete-service-keys --delete-service-brokers"
+    "undeploy": "cf undeploy project3 --delete-services --delete-service-keys --delete-service-brokers"
   },
   "sapuxLayer": "CUSTOMER_BASE",
   "sapux": true

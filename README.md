@@ -8,7 +8,7 @@
 |**Template Used**<br>List Report Page V4|
 |**Service Type**<br>SAP System (ABAP On-Premise)|
 |**Service URL**<br>https://602b9a51trial-qa-cicd-capm-srv.cfapps.us10-001.hana.ondemand.com/odata/v4/person/|
-|**Module Name**<br>project2|
+|**Module Name**<br>project3|
 |**Application Title**<br>App Title|
 |**Namespace**<br>|
 |**UI5 Theme**<br>sap_horizon|
@@ -18,7 +18,7 @@
 |**Add Eslint configuration**<br>False|
 |**Main Entity**<br>People|
 
-## project2
+## project3
 
 An SAP Fiori application.
 

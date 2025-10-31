@@ -2,7 +2,7 @@
 
 specVersion: "3.1"
 metadata:
-  name: project2
+  name: project3
 type: application
 resources:
   configuration:
@@ -16,7 +16,7 @@ builder:
     - name: ui5-task-zipper
       afterTask: generateCachebusterInfo
       configuration:
-        archiveName: project2
+        archiveName: project3
         relativePaths: true
         additionalFiles:
           - xs-app.json

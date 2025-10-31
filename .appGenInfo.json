@@ -5,7 +5,7 @@
     "serviceType": "SAP System (ABAP On-Premise)",
     "metadataFilename": "",
     "serviceUrl": "https://602b9a51trial-qa-cicd-capm-srv.cfapps.us10-001.hana.ondemand.com/odata/v4/person/",
-    "appName": "project2",
+    "appName": "project3",
     "appTitle": "App Title",
     "appDescription": "An SAP Fiori application.",
     "appNamespace": "",
